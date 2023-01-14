@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "C'Est La Vie"
-excerpt: "About C'est La Vie"
+title: "Community Event for Students of Learning Algorithms in Vienna"
+excerpt: "The Community Event for Students of Learning Algorithms in Vienna is a workshop aimed at PhD students in machine learning"
 author_profile: true
 redirect_from:
   - /about/
