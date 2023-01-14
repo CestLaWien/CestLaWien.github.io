@@ -15,8 +15,13 @@ C'Est La Vie is organized by machine learning PhD students from TU Wien and Univ
 
 ## Impressum
 `Fabian Jogl
+
 Machine Learning Research Unit (E 194-06)
+
 Information Systems Engineering Institute
+
 Faculty of Informatics
+
 TU Wien
+
 Address: Erzherzog-Johann-Platz 1 (FB02), 1040 Vienna, Austria`
