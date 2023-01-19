@@ -17,6 +17,7 @@ C'Est La Wien is organized by machine learning PhD students from TU Wien and Uni
 - [David Penz](https://informatics.tuwien.ac.at/people/david-penz) (TU Wien): Disentangled representations, knowledge transfer, and neuro-symbolic AI.
 - [Maximilian Thiessen](https://maxthiessen.ml/) (TU Wien): Graph-based machine learning, active learning, and learning theory. Connects (graph) convexity theory with machine learning.
 
+You can contact us at _hello[dot]cestlawien[at]gmail[dot]com_
 
 
 ## Impressum
