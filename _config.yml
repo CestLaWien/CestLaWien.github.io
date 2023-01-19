@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C'est La Vie"
+title                    : "C'est La Wien"
 title_separator          : "-"
-name                     : &name "C'est La Vie Organizors"
-description              : &description "Community Event for Students of Learning Algorithms in Vienna"
+name                     : &name "C'est La Wien Organizors"
+description              : &description "Community Event for Students of Learning Algorithms in Wien"
 url                      : https://cestlawien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cestlawien.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "C'est La Vie"
-  avatar           : "profile.png"
-  bio              : "Community Event for Students of Learning Algorithms in Vienna, 27.02.2023"
+  name             : "C'est La Wien"
+  avatar           : "logo_white_background.png"
+  bio              : "Community Event for Students of Learning Algorithms in Wien, 27.02.2023"
   location         : "Festsaal at TU Wien, Vienna (Austria)"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :

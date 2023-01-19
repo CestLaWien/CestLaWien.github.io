@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-C'Est La Vie is organized by machine learning PhD students from TU Wien and University of Vienna. This is a list of all of us and our research interests:
+C'Est La Wien is organized by machine learning PhD students from TU Wien and University of Vienna. This is a list of all of us and our research interests:
 - [Franka Bause](https://dm.cs.univie.ac.at/team/person/112939/) (University of Vienna): Machine learning with graphs.
 - [Tamara Drucks](https://informatics.tuwien.ac.at/people/tamara-drucks) (TU Wien): Graphs, optimization, and (deep) learning theory.
 - [Patrick Indri](https://informatics.tuwien.ac.at/people/patrick-indri) (TU Wien): Trustworthy machine learning focusing on privacy and robustness.
