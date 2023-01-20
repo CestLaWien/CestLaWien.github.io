@@ -28,7 +28,8 @@ There is a surprising amount of machine learning research happening in universit
 - 11:00 Short presentations: students can present a topic they are  working on
 - 12:30 Lunch break (lunch not provided)
 - 13:30 Poster session
-- 15:00 3rd and 4th keynote (tentatively)
+- 14:30 3rd keynote
+- 15:15 4th keynote
 - 16:00 Discussion round
 - 16:30 Topic tables: tables organized by the interest of attendees (for example: computer vision, graphs, theory, reinforcement learning, ...) where like-minded people can meet each other and network
 - 17:30 Final words and wrap up
