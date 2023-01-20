@@ -12,20 +12,25 @@ The  _**C**ommunity **E**vent for **St**udents of **L**earning **A**lgorithms in
 
 
 There is a surprising amount of machine learning research happening in universities in and around Vienna. However, there appears to be little cooperation between the various research units. To facilitate cooperation we are hosting a workshop aimed at PhD students in the area of machine learning called
- _**C**ommunity **E**vent for **St**udents of **L**earning **A**lgorithms in **Wien**_ (C'Est La Wien). The workshop will feature keynote presentations by established researchers, short presentations by PhD students and a poster session. All topics in the area of machine learning are welcome. We are still looking for students to present their research via a poster or a short presentation (duration depends on the number of sign-ups). If you want to attend the workshop please register [here](https://forms.gle/CjgAjKqpmdcym9Am7).
+ _**C**ommunity **E**vent for **St**udents of **L**earning **A**lgorithms in **Wien**_ (C'Est La Wien). The workshop will feature keynote presentations by established researchers, short presentations by PhD students and a poster session. All topics in the area of machine learning are welcome.
+
+## Participation
+ We are still looking for students to present their research via a poster or a short presentation (duration depends on the number of sign-ups). We are open to all topics connected to machine learning. Your presentation or poster can be about already published work or things you are currently working on even if it is in an early stage.  Please let us know if you want to have a short presentation or a poster during the [registration](https://forms.gle/CjgAjKqpmdcym9Am7).
+
+
 
 ## Tentative Schedule
 - 8:30 Entry
 - 8:45 Introduction
-- 9:00 1st presentation + discussion
-- 9:45 2nd presentation + discussion
+- 9:00 1st keynote
+- 9:45 2nd keynote
 - 10:30 Coffee break
 - 11:00 Short presentations: students can present a topic they are  working on
 - 12:30 Lunch break (lunch not provided)
 - 13:30 Poster session
-- 15:00 TBD
+- 15:00 3rd and 4th keynote (tentatively)
 - 16:00 Discussion round
-- 16:30 Topic tables: tables organized by the interest of attendees (for example: computer vision, graphs, theory, RL, ..) where like-minded people can meet each other and network
+- 16:30 Topic tables: tables organized by the interest of attendees (for example: computer vision, graphs, theory, reinforcement learning, ...) where like-minded people can meet each other and network
 - 17:30 Final words and wrap up
 
 
