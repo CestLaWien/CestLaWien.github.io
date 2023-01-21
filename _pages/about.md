@@ -22,14 +22,14 @@ There is a surprising amount of machine learning research happening in universit
 ## Tentative Schedule
 - 8:30 Entry
 - 8:45 Introduction
-- 9:00 1st keynote
-- 9:45 2nd keynote
+- 9:00 Keynote by [Alejandra Avalos-Pacheco](https://sites.google.com/view/aleavalos?pli=1) (TU Wien)
+- 9:45 2nd keynote: TBA
 - 10:30 Coffee break
 - 11:00 Short presentations: students can present a topic they are  working on
 - 12:30 Lunch break (lunch not provided)
 - 13:30 Poster session
-- 14:30 3rd keynote
-- 15:15 4th keynote
+- 14:30 3rd keynote: TBA
+- 15:15 Keynote by [Marco Mondelli](http://marcomondelli.com/) (IST Austria)
 - 16:00 Discussion round
 - 16:30 Topic tables: tables organized by the interest of attendees (for example: computer vision, graphs, theory, reinforcement learning, ...) where like-minded people can meet each other and network
 - 17:30 Final words and wrap up
