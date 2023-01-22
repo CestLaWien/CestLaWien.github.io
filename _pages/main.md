@@ -11,7 +11,7 @@ redirect_from:
 The  _**C**ommunity **E**vent for **St**udents of **L**earning **A**lgorithms in **Wien**_ is a workshop aimed at PhD students in machine learning.
 
 
-There is a surprising amount of machine learning research happening in universities in and around Vienna. However, there appears to be little cooperation between the various research units. To facilitate cooperation we are hosting a workshop aimed at PhD students in the area of machine learning called
+There is a surprising amount of machine learning research happening at universities and institutes in and around Vienna. However, there appears to be little cooperation between the various research units. To facilitate cooperation we are hosting a workshop aimed at PhD students in the area of machine learning called
  _**C**ommunity **E**vent for **St**udents of **L**earning **A**lgorithms in **Wien**_ (C'Est La Wien). The workshop will feature keynote presentations by established researchers, short presentations by PhD students and a poster session. All topics in the area of machine learning are welcome.
 
 ## Participation
