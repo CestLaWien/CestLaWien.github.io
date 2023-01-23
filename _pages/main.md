@@ -28,7 +28,7 @@ There is a surprising amount of machine learning research happening at universit
 - 11:00 Short presentations: students can present a topic they are  working on
 - 12:30 Lunch break (lunch not provided)
 - 13:30 Poster session
-- 14:30 3rd keynote: TBA
+- 14:30 Keynote by [Sebastian Tschiatschek](https://www.tschiatschek.net/) (University of Vienna)
 - 15:15 Keynote by [Marco Mondelli](http://marcomondelli.com/) (IST Austria)
 - 16:00 Discussion round
 - 16:30 Topic tables: tables organized by the interest of attendees (for example: computer vision, graphs, theory, reinforcement learning, ...) where like-minded people can meet each other and network
@@ -37,4 +37,4 @@ There is a surprising amount of machine learning research happening at universit
 
 
 ## Attendance Details
-The workshop takes place at [Festsaal (TU Wien)](https://www.tuwien.at/en/tu-wien/organisation/central-divisions/real-estate-and-facility-management/event-service/room-database/event-rooms/festsaal) on Monday the 27.2.2023 starting at 8:00. If you are interested in joining please register [here](https://forms.gle/CjgAjKqpmdcym9Am7). Attending or presenting at the workshop is free.
+The workshop takes place at [Festsaal (TU Wien)](https://www.tuwien.at/en/tu-wien/organisation/central-divisions/real-estate-and-facility-management/event-service/room-database/event-rooms/festsaal) on Monday the 27.2.2023 starting at 8:00. If you are interested in joining please register [here](https://forms.gle/CjgAjKqpmdcym9Am7). **Please register before 14.2.2023**. Attending or presenting at the workshop is free.
