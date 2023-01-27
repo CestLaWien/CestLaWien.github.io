@@ -37,4 +37,4 @@ There is a surprising amount of machine learning research happening at universit
 
 
 ## Attendance Details
-The workshop takes place at [Festsaal (TU Wien)](https://www.tuwien.at/en/tu-wien/organisation/central-divisions/real-estate-and-facility-management/event-service/room-database/event-rooms/festsaal) on Monday the 27.2.2023 starting at 8:00. If you are interested in joining please register [here](https://forms.gle/CjgAjKqpmdcym9Am7). **Please register before 14.2.2023**. Attending or presenting at the workshop is free.
+The workshop takes place at [Festsaal (TU Wien)](https://www.tuwien.at/en/tu-wien/organisation/central-divisions/real-estate-and-facility-management/event-service/room-database/event-rooms/festsaal) on Monday the 27.2.2023 starting at 8:00. If you are interested in joining please register [here](https://forms.gle/CjgAjKqpmdcym9Am7). **Registration will be closed after 13.2.2023 or when no more spots are available.** Attending or presenting at the workshop is free.
